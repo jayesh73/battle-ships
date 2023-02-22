@@ -1,0 +1,25 @@
+Battleship is a game.
+Where on a grid of 7X7, user predicts the battle ship.
+User either hits or misses the ship.
+Total 3 battleships are hidden in the grid.
+PSEUDO:
+==========
+
+Start game
+Set up/Display a grid with three ships hidden
+Get User to Guess
+Check guess 
+if guess correct then hit (display battleship) else Get new Guess
+Repeat the process untill all ships discovered.
+Mark Ships as Sunk.
+DIsplay user score
+Game over
+
+
+Tasks:
+1. Create the loop and get user guess
+2. Check user guess
+3. Check if ship has Sunk
+4. Display user score
+
+
